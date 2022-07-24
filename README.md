@@ -1,4 +1,5 @@
-## Ola, me chamo Cesário Silva, criador de conteúdo de programação e tecnologia!
+## Ola, me chamo Cesário Silva, sou desenvovendor de programas de computador e dispositivos mobiles!
+
 <div align="center">
   <a href="https://github.com/jnsoftdev">
     <img height="120em" src="https://github-readme-stats.vercel.app/api?username=jnsoftdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,4 +1,4 @@
-## Ola, me chamo Cesário Silva, sou desenvovendor de programas de computador e dispositivos mobiles!
+## Ola, me chamo Cesário Silva, sou desenvolvendor de programas de computador e dispositivos mobiles!
 
 <div align="center">
   <a href="https://github.com/jnsoftdev">

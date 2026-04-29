@@ -34,5 +34,5 @@
 ##
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jnsoftdev/jnsoftdev/output/github-contribution-grid-snake.svg" alt="Snake"/>
+  <img src="https://raw.githubusercontent.com/jnsoftdev/jnsoftdev/output/snake.svg" alt="Snake"/>
 </div>

@@ -1,50 +1,44 @@
-<h2 align="center">Olá! Sou Cesário Silva 👋</h2>
-<h4 align="center">Desenvolvedor Full Stack & Mobile | Fundador da JNSOFT desde 2012</h4>
+<h2 align="center">👨‍💻 Eng. Cesário Silva</h2>
+<p align="center"><em>Fundador da JNSOFT · Full Stack & Mobile Developer · 20+ anos construindo software real</em></p>
+<p align="center">Transformo ideias em sistemas completos — do hardware ao app mobile, do banco de dados à interface.</p>
+
+##
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=jnsoftdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnsoftdev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=jnsoftdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnsoftdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
 
-<h4 align="center">🛠️ Tecnologias & Ferramentas</h4>
-
-<table align="center">
-  <tr>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><br>Java</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><br>C#</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/><br>VB.NET</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><br>C</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><br>C++</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/><br>PHP</td>
-    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/><br>Python</td>
-    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/><br>JavaScript</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/><br>HTML5</td>
-    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/><br>CSS3</td>
-    <td align="center"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><br>React</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><br>MySQL</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/><br>SQL Server</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/><br>Firebase</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/><br>Arduino</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/><br>Raspberry Pi</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/><br>Visual Studio</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/><br>VS Code</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/><br>Android Studio</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/><br>Android</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><br>Git</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><br>Linux</td>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Delphi-CC0000?style=flat-square&logo=embarcadero&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Clipper-darkgreen?style=flat-square&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Pascal-003366?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img title="Java" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;
+<img title="C#" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>&nbsp;
+<img title="VB.NET / ASP.NET" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>&nbsp;
+<img title="C" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>&nbsp;
+<img title="C++" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&nbsp;
+<img title="PHP" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>&nbsp;
+<img title="Python" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>&nbsp;
+<img title="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>&nbsp;
+<img title="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;
+<img title="CSS3" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;
+<img title="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;
+<img title="MySQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>&nbsp;
+<img title="SQL Server" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>&nbsp;
+<img title="Firebase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>&nbsp;
+<img title="Android Studio" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>&nbsp;
+<img title="Arduino - IoT & Automação" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>&nbsp;
+<img title="Raspberry Pi" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>&nbsp;
+<img title="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;
+<img title="Visual Studio" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>&nbsp;
+<img title="Linux" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Delphi-CC0000?style=flat-square&logo=embarcadero&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clipper-2d6a4f?style=flat-square&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pascal-003366?style=flat-square&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/COBOL-1a1a2e?style=flat-square&logoColor=white"/>
+</p>
 
 ##
 

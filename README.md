@@ -12,13 +12,29 @@
   <img alt="VSCode" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;&nbsp;
   <img alt="Android" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">&nbsp;&nbsp;
   <img alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;&nbsp;
+  <img alt="CSharp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;
+  <img alt="DotNet" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">&nbsp;&nbsp;
+  <img alt="C" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">&nbsp;&nbsp;
+  <img alt="CPP" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;&nbsp;
   <img alt="Firebase" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;
   <img alt="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
   <img alt="RPi" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">&nbsp;&nbsp;
   <img alt="Arduino" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">&nbsp;&nbsp;
   <img alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img alt="PHP" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">&nbsp;&nbsp;
+  <img alt="MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&nbsp;&nbsp;
+  <img alt="SQLServer" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">&nbsp;&nbsp;
   <img alt="HTML5" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img alt="CSS3" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COBOL-blue?style=flat-square&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Clipper-darkgreen?style=flat-square&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Delphi-CC0000?style=flat-square&logo=embarcadero&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Pascal-darkblue?style=flat-square&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 </p>
 
 ##

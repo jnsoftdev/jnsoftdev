@@ -11,7 +11,7 @@
 
 ### 🛠️ Stack Tecnológica
 
-<p align="left">
+<p align="center">
   <img title="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> &nbsp;
   <img title="VB.NET / ASP.NET" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/> &nbsp;
   <img title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> &nbsp;
@@ -24,9 +24,6 @@
   <img title="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> &nbsp;
   <img title="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> &nbsp;
   <img title="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-</p>
-
-<p align="left">
   <img title="Android Studio" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> &nbsp;
   <img title="Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/> &nbsp;
   <img title="Raspberry Pi" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/> &nbsp;
@@ -38,7 +35,7 @@
 </p>
 
 **Estudos & Legado**
-<p align="left">
+<p align="center">
   <img title="Delphi" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> &nbsp;
   <img title="COBOL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> &nbsp;
   <img title="Clipper" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>

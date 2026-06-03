@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Eng.%20Ces%C3%A1rio%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
+<img src="https://www.jnsoft.com.br/img/company/logo.png" width="320" alt="JNSOFT ENGENHARIA" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=20%2B+Anos+de+Experi%C3%AAncia+em+Software;Fundador+%26+CEO+da+JNSOFT;.NET+%7C+Java+%7C+Android+%7C+ASP.NET;Do+hardware+ao+mobile%2C+do+c%C3%B3digo+ao+concreto)](https://git.io/typing-svg)
 

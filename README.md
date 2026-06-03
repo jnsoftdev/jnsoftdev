@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Arquiteto de Software Full Stack** com mais de **20 anos de experiência**, unindo a precisão da **Engenharia Civil** com a agilidade do **desenvolvimento de sistemas**. Fundador e CEO da **[JNSOFT ENGENHARIA](https://www.jnsoft.com.br)**, entrego soluções completas — da modelagem do banco de dados à interface final — em plataformas Web, Desktop e Mobile.
+Sou **Arquiteto de Software Full Stack** com mais de **24 anos de experiência**, unindo a precisão da **Engenharia Civil** com a agilidade do **desenvolvimento de sistemas**. Fundador e CEO da **[JNSOFT ENGENHARIA](https://www.jnsoft.com.br)**, entrego soluções completas — da modelagem do banco de dados à interface final — em plataformas Web, Desktop e Mobile.
 
 Minha especialidade é assumir o **ciclo completo de um projeto**: arquitetura, backend, frontend, banco de dados, infraestrutura e mobile. Transito com autonomia por stacks como **.NET (C#, VB.NET, ASP.NET)**, **Java**, **PHP** e **Android**, sempre focando em integração de APIs e entregas de alto impacto.
 
@@ -116,5 +116,20 @@ Minha especialidade é assumir o **ciclo completo de um projeto**: arquitetura, 
 ![Visitor Count](https://komarev.com/ghpvc/?username=jnsoftdev&color=00d9ff&style=for-the-badge&label=VISITANTES)
 
 **⭐ Se algum projeto te ajudou, deixe uma estrela! Isso faz toda a diferença.**
+
+</div>
+
+
+---
+
+## 🐍 Cobrinha Comendo Minhas Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jnsoftdev/jnsoftdev/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jnsoftdev/jnsoftdev/blob/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/jnsoftdev/jnsoftdev/blob/output/dist/github-contribution-grid-snake.svg">
+</picture>
 
 </div>

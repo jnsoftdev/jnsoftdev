@@ -1,57 +1,120 @@
-<h1 align="center">👨‍💻 Eng. Cesário Silva</h1>
-<p align="center"><strong>Arquiteto de Software | Full Stack & Mobile Developer | 20+ Anos de Experiência</strong></p>
-<p align="center">Soluções escaláveis do hardware ao mobile, do banco de dados à interface.</p>
-
 <div align="center">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=jnsoftdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnsoftdev&layout=compact&langs_count=7&theme=dracula"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Eng.%20Ces%C3%A1rio%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=20%2B+Anos+de+Experi%C3%AAncia+em+Software;Fundador+%26+CEO+da+JNSOFT;.NET+%7C+Java+%7C+Android+%7C+ASP.NET;Do+hardware+ao+mobile%2C+do+c%C3%B3digo+ao+concreto)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 🛠️ Stack Tecnológica
+## 👨‍💻 Sobre Mim
 
-<p align="center">
-  <img title="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> &nbsp;
-  <img title="VB.NET / ASP.NET" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/> &nbsp;
-  <img title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> &nbsp;
-  <img title="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> &nbsp;
-  <img title="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> &nbsp;
-  <img title="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> &nbsp;
-  <img title="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> &nbsp;
-  <img title="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> &nbsp;
-  <img title="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img title="Android Studio" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> &nbsp;
-  <img title="Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/> &nbsp;
-  <img title="Raspberry Pi" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/> &nbsp;
-  <img title="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> &nbsp;
-  <img title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> &nbsp;
-  <img title="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> &nbsp;
-  <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</p>
+Sou **Arquiteto de Software Full Stack** com mais de **20 anos de experiência**, unindo a precisão da **Engenharia Civil** com a agilidade do **desenvolvimento de sistemas**. Fundador e CEO da **[JNSOFT ENGENHARIA](https://www.jnsoft.com.br)**, entrego soluções completas — da modelagem do banco de dados à interface final — em plataformas Web, Desktop e Mobile.
 
-**Estudos & Legado**
-<p align="center">
-  <img title="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> &nbsp;
-  <img title="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> &nbsp;
-  <img title="Delphi" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> &nbsp;
-  <img title="COBOL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> &nbsp;
-  <img title="Clipper" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</p>
+Minha especialidade é assumir o **ciclo completo de um projeto**: arquitetura, backend, frontend, banco de dados, infraestrutura e mobile. Transito com autonomia por stacks como **.NET (C#, VB.NET, ASP.NET)**, **Java**, **PHP** e **Android**, sempre focando em integração de APIs e entregas de alto impacto.
+
+> *"Engenharia é resolver problemas reais com precisão técnica e visão estratégica."*
 
 ---
 
-### 📈 Contribuições
+## 🛠️ Stack Tecnológica
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jnsoftdev/jnsoftdev/output/github-contribution-grid-snake.svg" alt="Snake"/>
+
+### 🔵 Backend & Desktop
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" title="C#"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" title=".NET"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
+
+### 🌐 Frontend & Mobile
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" title="Bootstrap"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" title="Android"/>
+
+### 🗄️ Banco de Dados & Infra
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" title="SQL Server"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" title="Firebase"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" title="Arduino / IoT"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45" title="Raspberry Pi"/>
+
 </div>
 
 ---
 
-### 📫 Contato
+## 🚀 Produtos da JNSOFT
+
+| Produto | Descrição | Plataforma |
+|---|---|---|
+| 💼 **DaniExpress ERP** | Gestão comercial completa: estoque, PDV e financeiro | Windows · Android · iOS |
+| 💳 **Pix Control** | Cobranças via QR Code com comprovantes automáticos | Windows · Android · iOS |
+| ⏱️ **Cronos Control** | Ponto digital com geolocalização em tempo real | Windows · Android · iOS |
+| 🥋 **Profight ERP** | Sistema sob medida para indústria de confecção esportiva | Web · Desktop · Android |
+
+🌐 **Acesse:** [www.jnsoft.com.br](https://www.jnsoft.com.br)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/engcesariomonteiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/cesariosilva_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/@jnsoft" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:jnsoftinformatica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnsoftdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnsoftdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jnsoftdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)
+
+</div>
+
+---
+
+## 🏆 Experiência Profissional
+
+```
+📍 JNSOFT ENGENHARIA       — Fundador & CEO | Arquiteto de Software    (2012 – presente)
+📍 PROFIGHT KIMONOS        — Arquiteto de Sistemas Full Stack           (2023 – presente)
+📍 Exército Brasileiro     — Analista e Desenvolvedor de Sistemas       (2009 – 2023)
+📍 Prefeitura de Castanhal — Assistente Administrativo e Operacional    (2013 – 2020)
+```
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🏗️ **Engenharia Civil** — Estácio *(em andamento)*
+- 💻 **Análise e Desenvolvimento de Sistemas** — UNIGRANDE *(em andamento)*
+
+---
+
+## 📫 Contato & Redes
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesariomonteiro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cesariosilva_oficial)
+[![Website](https://img.shields.io/badge/JNSOFT-0f3460?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jnsoft.com.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@jnsoft.com.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547988242200)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jnsoftdev&color=00d9ff&style=for-the-badge&label=VISITANTES)
+
+**⭐ Se algum projeto te ajudou, deixe uma estrela! Isso faz toda a diferença.**
+
 </div>
